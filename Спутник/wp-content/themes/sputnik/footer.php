@@ -80,7 +80,7 @@ $social_li = get_field('social_li','option');
     <div class="qr column">
         <a class="qr__close" href="#">+</a>
         <span class="qr__txt">Наведите камеру телефона и скачайте</span>
-        <img class="qr__code" src="https://sputnik.systems/wp-content/uploads/2022/01/qr-code-1.png" alt="QR код">
+        <img class="qr__code" src="/wp-content/uploads/2022/01/qr-code-1.png" alt="QR код">
     </div>
 </div>
 <div class="dark-layer js--hidden">
@@ -118,7 +118,7 @@ if (window.location.href.includes('spt_staff')) {
   })
 }
 if(window.location.href.includes('service/partners')) {
-   window.location.href = "http://sputnik.dev-tmweb.ru//partners/";
+   window.location.href = "https://landing-stage.sputnik.systems/partners/";
 }
 </script>
 <script>
@@ -157,10 +157,10 @@ if(window.location.href.includes('service/partners')) {
     }
 })();
 </script>
-<script src="http://sputnik.dev-tmweb.ru/wp-content/themes/sputnik/assets/js/jquery.min.js"> </script>
-<script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
-<script src="http://sputnik.dev-tmweb.ru/wp-content/themes/sputnik/assets/js/plugins.min.js'?>"> </script>
-<script src="http://sputnik.dev-tmweb.ru/wp-content/themes/sputnik/assets/js/mainFelix.js'?>"> </script>
+<script src="/wp-content/themes/sputnik/assets/js/jquery.min.js"> </script>
+<script src="https://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
+<script src="/wp-content/themes/sputnik/assets/js/plugins.min.js'?>"> </script>
+<script src="/wp-content/themes/sputnik/assets/js/mainFelix.js'?>"> </script>
 
 </body>
 
